@@ -27,8 +27,3 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,nextjs,mysql,flask" /><br>
 </div>
 <br/>
-<div align="center">
-  <h2> My Contributions</h2>
-  <br>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IssamKharbache/IssamKharbache/output/github-contribution-grid-snake.svg" />
-</div>
