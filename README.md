@@ -29,15 +29,16 @@
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=IssamKharbache&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-   <img width=390 height=350 src="https://streak-stats.demolab.com/?user=IssamKharbache&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=IssamKharbache&count_private=true&show_icons=true&theme=calm&rank_icon=github&border_radius=10" alt="readme stats" />
+ 
+   <img width=390 height=350 src="https://github-readme-streak-stats-sandy-eta.vercel.app?user=IssamKharbache&theme=calm&count_private=true&border_radius=10" alt="streak stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssamKharbache&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssamKharbache&hide=HTML&langs_count=8&layout=compact&theme=calm&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
 <br/>
 <hr/>
 <br/>
 <div align="center">
-<a href='https://www.buymeacoffee.com/issamkharbo' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></div>
+<a href='https://www.buymeacoffee.com/issamkharbo' target='_blank'><img height='64' style='border:0px;height:250px;border-radius: 30px;' src='https://digitalbroccoli.com/wp-content/uploads/2023/09/review_buymeacoffee.png' border='0' alt='Buy Me a Coffee' /></a></div>
 <br/>
