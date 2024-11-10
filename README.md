@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center" >A passionate software developer from Morroco 🇲🇦</h3>
 <div align="center">
-💬 Ask me about **Node.js, React, Python or anything [here](https://github.com/IssamKharbache)**
+💬 Ask me about **Javascript, Nodejs, Python,Java or anything [here](https://github.com/IssamKharbache)**
  </div>
  </br >
  <div align="center"> 
