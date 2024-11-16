@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=RethinkSans&size=35&center=true&vCenter=true&width=500&color=165E97&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Issam+Kharbache!;" />
 </h1>
-<h3 align="center" >A passionate software developer from Morroco 🇲🇦</h3>
+<h3 align="center" >A morrocan passionate software developer 🇲🇦</h3>
 <div align="center">
 💬 Ask me about **Javascript, Nodejs, Python,Java or anything [here](https://github.com/IssamKharbache)**
  </div>
@@ -20,7 +20,7 @@
   </a>
 </div>
 </br >
-<h2 align="center">💻 Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> 💻 Tech Stack : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
